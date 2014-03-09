@@ -2,6 +2,8 @@
 
 TODO: Write a gem description
 
+This is currently a work in progress.
+
 ## Installation
 
 Add this line to your application's Gemfile:
